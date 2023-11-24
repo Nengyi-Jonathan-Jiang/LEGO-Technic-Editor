@@ -1,0 +1,5 @@
+class LEGOComponentType {
+    constructor(modelURL) {
+
+    }
+}
